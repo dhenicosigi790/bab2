@@ -1,5 +1,6 @@
+```mermaid
 flowchart TD
-    A[Tuntutan pembelajaran abad ke-21,Kurikulum Merdeka, dan kerangka PISA/OECD: peserta didik perlu memiliki literasi sains sebagai kompetensi esensial] --> B
+    A[Tuntutan pembelajaran abad ke-21,Kurikulum Merdeka, dan kerangka PISA/OECD:peserta didik perlu memiliki literasi sains sebagai kompetensi esensial] --> B
 
     subgraph B[Permasalahan Pembelajaran Genetika]
         B1[Rendahnya literasi sains siswa Indonesia]
@@ -34,7 +35,7 @@ flowchart TD
     E --> F[Scientific reasoning]
     F --> G[Literasi sains siswa]
 
-    subgraph H[Indikator Literasi Sains]
+    subgraph H
         H1[Menjelaskan fenomena ilmiah]
         H2[Merancang penyelidikan]
         H3[Interpretasi data dan bukti]
